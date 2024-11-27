@@ -1,4 +1,4 @@
-module.exports = {
+gmodule.exports = {
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   darkMode: 'class',
   theme: {
